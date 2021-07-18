@@ -10,9 +10,12 @@
  []()<br>
  []()<br>
  []()<br>
- ```Learn VPN ```
+  ```Channel All Things Secured```<br>
+  ```Hack-Proof Your Online Life (Tips and Tutorials ON:)```<br>
+  [How to Setup a VPN on a Computer in 2021 (Beginner's Tutorial)](https://www.youtube.com/watch?v=6pcUEOSpWb0)<br>
+  
+ ```Learn VPN ```<br>
 [VPN คืออะไรและทำไมคุณจำเป็นต้องใช้มันในปี 2021](https://th.vpnmentor.com/blog/%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3-vpn-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/)<br>
 [VPN คืออะไร หลักการทำงานของ Virtual Private Network](https://www.youtube.com/watch?v=oMJ_YmKGluA)<br>
-[]()<br>
 []()<br>
 []()<br>
